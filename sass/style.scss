@@ -1,0 +1,27 @@
+
+.splash {
+    position: relative;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-image: url("https://images.pexels.com/photos/53265/pexels-photo-53265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+.splash-inner {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+
+}
+
+ .page-title {
+     font-size: 40px;
+ }
+
+ .page-subtitle {
+     font-size: 70px;
+ }
+    
